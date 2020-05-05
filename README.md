@@ -69,4 +69,16 @@
       | UIImagePicker, URLScheme | ImagePickerController, URLScheme사용법 및 예제  | `클릭` |
       | Gesture Recognizer | Tap, swipe, pan GestureRecognizer | `클릭` |
       | Mapkit | CoreLocation, Geocode, Annotation, CallOut, RendererOverlay | `클릭` |
-      | UIScrollView | PagingControl, AutoLay | `클릭` |
+      | UIScrollView | PagingControl, AutoLayout 설정 방법 | `클릭` |
+
+    + 10 주차 (2020.01.13 ~ 2020.01.17)
+      | 수업주제 | 내용 | 링크 |
+      |:---:|:---:| :---:|
+      | Animation | UIView.animate, UIView.animateKeyframes, UIView.transition  | `클릭` |
+      | High-Order Function | Map, FlatMap, ForEach, Reduce  | `클릭` |
+      
+    + 11 주차 (2020.01.28 ~ 2020.01.31)
+      | 수업주제 | 내용 | 링크 |
+      |:---:|:---:| :---:|
+      | UICollectionView | UIView.animate, UIView.animateKeyframes, UIView.transition  | `클릭` |
+      | Error-Handling | Map, FlatMap, ForEach, Reduce  | `클릭` |
