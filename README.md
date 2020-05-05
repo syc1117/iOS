@@ -22,4 +22,12 @@
       | 수업주제 | 내용 | 링크 |
       |:---:|:---:| :---:|
       | Swift 기본 문법(3) |  Collection, Closure, Enumerations, Optional| `클릭` |
+      
+    + 3 주차 (2019.11.18 ~ 2019.11.22)
+      | 수업주제 | 내용 | 링크 |
+      |:---:|:---:| :---:|
+      | OOP | OOP기본개념, Property, Method | `클릭` |
+      | Access Controll | 접근제한자의 종류와 활용법(private, public, open) | `클릭` |
+      | App LifeCycle | App LifeCycle과 View LifeCycle의 기본 개념 | `클릭` |
+      | UI Guide | Frame, Bounds | `클릭` |
      
