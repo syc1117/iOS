@@ -38,3 +38,11 @@
       | AlertController | 기본 활용법 및 예제 실습 | `클릭` |
       | UITextField | UITextFieldDelegate를 이용한 예제 실습 | `클릭` |
       
+    + 5 주차 (2019.12.02 ~ 2019.12.06)
+      | 수업주제 | 내용 | 링크 |
+      |:---:|:---:| :---:|
+      | 화면 전환 | Segue, Modal present | `클릭` |
+      | TypeCasting, Initailizing | 기본 개념과 사용법 | `클릭` |
+      | Singleton, Data저장 | Singleton 및 Userdefault 개념과 사용법 | `클릭` |
+      
+      
