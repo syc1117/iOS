@@ -51,5 +51,22 @@
       | ARC, Struct | Segue, Modal present | `클릭` |
       | Delegate | 기본 개념과 사용법 | `클릭` |
       | AutoLayout | Singleton 및 Userdefault 개념과 사용법 | `클릭` |
-      | AutoLayout | Singleton 및 Userdefault 개념과 사용법 | `클릭` |
+      | UI구성 실습 | Login Page UI구성 | `클릭` |
         
+    + 7 주차 (2019.12.16 ~ 2019.12.20)
+      | 수업주제 | 내용 | 링크 |
+      |:---:|:---:| :---:|
+      | TableView | TableView의 구성과 사용법(Cell, DataSource, Delegate) | `클릭` |
+      
+    + 8 주차 (2019.12.23 ~ 2019.12.27)
+      | 수업주제 | 내용 | 링크 |
+      |:---:|:---:| :---:|
+      | NavigationController | ContainerViewController의 개념, NavigationController의 특징과 사용법 | `클릭` |
+      
+    + 9 주차 (2020.01.06 ~ 2020.01.10)
+      | 수업주제 | 내용 | 링크 |
+      |:---:|:---:| :---:|
+      | UIImagePicker, URLScheme | ImagePickerController, URLScheme사용법 및 예제  | `클릭` |
+      | Gesture Recognizer | Tap, swipe, pan GestureRecognizer | `클릭` |
+      | Mapkit | CoreLocation, Geocode, Annotation, CallOut, RendererOverlay | `클릭` |
+      | UIScrollView | PagingControl, AutoLay | `클릭` |
