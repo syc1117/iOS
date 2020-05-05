@@ -89,10 +89,28 @@
       | Data Structure | Type, Complexity, Linked List, Stack, Queue, Graph, Tree  | [클릭]()  |
       | Algorithm | Flowchart, Sorting(Bubble, Selection, Insertion, Quick, Merge, Heap)  | [클릭]()  |
    
-    + 13 주차 (2020.02.03 ~ 2020.02.07)
+    + 13 주차 (2020.02.10 ~ 2020.02.14)
       | 수업주제 | 내용 | 링크 |
       |:---:|:---:| :---:|
-      | Data Structure | Type, Complexity, Linked List, Stack, Queue, Graph, Tree  | [클릭]()  |
-      | Algorithm | Flowchart, Sorting(Bubble, Selection, Insertion, Quick, Merge, Heap)  | [클릭]()  |
+      | UIDevice | Type, Complexity, Linked List, Stack, Queue, Graph, Tree  | [클릭]()  |
+      | Closure | CaptureList, NoEscaping & Escaping | [클릭]()  |
+      | NetWork | URI, Byte Ordering, Protocol Suite(TCP/IP), HTTP, REST API | [클릭]()  |
+      | URL Loading System | URLSession(Con􏲆gurations, Tasks, Delegate, Completion handler)  | [클릭]()  |
+      | GCD | Serial vsConcurrent Queue, Sync vs Async | [클릭]()  |
+      
+    + 14 주차 (2020.02.17 ~ 2020.02.21)
+      | 수업주제 | 내용 | 링크 |
+      |:---:|:---:| :---:|
+      | JSON | JSONSerialization, JSON Data, Parsing  | [클릭]()  |
+      | Codable | Codable Protocol, CodingKey, Encode & Decode, Nested Keys | [클릭]()  |
+      | NotifiCation Center | 사용 방법 및 예제 실습 | [클릭]()  |
+      | Apple Login | 예제 코드 리뷰 | [클릭]()  |
+      
+    + 15 주차 이후 (2020.03.01 ~ 2020.04.29)
+      | 수업주제 | 내용 | 링크 |
+      |:---:|:---:| :---:|
+      | 개인 실습 | 학습내용 복습 및 App 제작 실습 | [클릭]()  |
+      | 팀 프로젝트 | 주제 선정 및 기획, 개발, 발표 | [클릭]()  |
+      
       
      
