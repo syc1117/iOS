@@ -45,4 +45,11 @@
       | TypeCasting, Initailizing | 기본 개념과 사용법 | `클릭` |
       | Singleton, Data저장 | Singleton 및 Userdefault 개념과 사용법 | `클릭` |
       
-      
+    + 6 주차 (2019.12.09 ~ 2019.12.13)
+      | 수업주제 | 내용 | 링크 |
+      |:---:|:---:| :---:|
+      | ARC, Struct | Segue, Modal present | `클릭` |
+      | Delegate | 기본 개념과 사용법 | `클릭` |
+      | AutoLayout | Singleton 및 Userdefault 개념과 사용법 | `클릭` |
+      | AutoLayout | Singleton 및 Userdefault 개념과 사용법 | `클릭` |
+        
