@@ -21,7 +21,5 @@
     + 2 주차 (2019.11.11 ~ 2019.11.15)
       | 수업주제 | 내용 | 링크 |
       |:---:|:---:| :---:|
-      | Swift 기본 문법(3) | Closure | `클릭` |
-      | Swift 기본 문법(4) | Collection | `클릭` |
-      | Swift 기본 문법(5) | Enumerations | `클릭` |
-      | Swift 기본 문법(6) | Optional | `클릭` |
+      | Swift 기본 문법(3) |  Collection, Closure, Enumerations, Optional| `클릭` |
+     
