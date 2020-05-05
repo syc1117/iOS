@@ -7,7 +7,7 @@
 
 
 ### 1.  Swift Study
- * 학습 기관: Fast Campus
+ * 학습 기관: Fast Campus(오프라인), KxCoding(온라인)
  * 학습 기간: 2019년 11월 4일 ~ 2020년 4월 29일
- * 커리큘럼
-  
+ * 커리큘럼(Fast Campus)
+  + 
