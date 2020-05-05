@@ -30,4 +30,11 @@
       | Access Controll | 접근제한자의 종류와 활용법(private, public, open) | `클릭` |
       | App LifeCycle | App LifeCycle과 View LifeCycle의 기본 개념 | `클릭` |
       | UI Guide | Frame, Bounds | `클릭` |
-     
+      
+    + 4 주차 (2019.11.25 ~ 2019.11.29)
+      | 수업주제 | 내용 | 링크 |
+      |:---:|:---:| :---:|
+      | UIViewController | View Management, Content View & Container View | `클릭` |
+      | AlertController | 기본 활용법 및 예제 실습 | `클릭` |
+      | UITextField | UITextFieldDelegate를 이용한 예제 실습 | `클릭` |
+      
