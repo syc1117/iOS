@@ -117,9 +117,114 @@
  * 학습 기관: KxCoding
  * 학습 기간: 2020년 3월 1일 ~ 2020년 5월 10일
  * 커리큘럼
+     Key Concepts
       >| 수업주제 | 내용 | 링크 |
       >|:---:|:---:| :---:|
-      >| 컴퓨터 개론 | 컴퓨터 발전의 역사, coding이란, program이란 | [클릭](https://github.com/syc1117/iOS/tree/master/Lecture_Swift/2019.11.04_ComputerBasic) |
-      >| 기본 setting | xcode설치, github & terminal 기본개념 | [클릭](https://github.com/syc1117/iOS/tree/master/Lecture_Swift/2019.11.05_GITHUB%20기초)  |
-      >| Swift 기본 문법(1) | 상수와 변수, Type, Function | [클릭](https://github.com/syc1117/iOS/tree/master/Lecture_Swift/2019.11.06%20%7E%2011.15_Swift기초문법) |
-      >| Swift 기본 문법(2) | 조건문, 반복문, Tuples, Control Transfer | [클릭](https://github.com/syc1117/iOS/tree/master/Lecture_Swift/2019.11.06%20%7E%2011.15_Swift기초문법)  |
+      >| Obsevable과 Observer | Observable 구독과 이벤트 처리 방법 | [클릭]() |
+      >| Disposables | Obsevable의 실행을 취소하고 리소스를 정리하는 방법 | [클릭]()  |
+      >| Operators | 연산자의 역할과 사용법 | [클릭]() |
+
+     Subjects
+      >| 수업주제 | 내용 | 링크 |
+      >|:---:|:---:| :---:|
+      >| Publish Subject | 가장 기본적인 형태의 Subject | [클릭]() |
+      >| Behavior Subject | 가장 최근 이벤트를 저장하고 새로운 구독자에게 전달 | [클릭]()  |
+      >| Replay Subject | 지정된 수 만큼 이벤트를 저장 | [클릭]() |
+      >| Async Subject | completed이벤트가 전달되는 시점에 가장 최근 Next 이벤트를 구독자로 전달 | [클릭]() |
+      >| Relays | Subject를 wrapping | [클릭]() |
+      
+     Create Operators
+      >| 수업주제 | 내용 | 링크 |
+      >|:---:|:---:| :---:|
+      >| just, of, from | Obsevable 생성에 사용되는 가장 기초가 되는 연산자 | [클릭]() |
+      >| range, generate | 정수를 지정된 수 만큼 방출하는 Obsevable 생성 | [클릭]()  |
+      >| repeatElement | 동일한 요소를 반복적으로 방출하는 Observable 생성 | [클릭]() |
+      >| deferred | 특정 조건에 따라 Observable을 생성 | [클릭]() |
+      >| create | Observable을 직접 구현 | [클릭]() |
+      >| empty, error | 요소를 방출핮 않는 특별한 연산자 | [클릭]() |
+      
+      Filtering Operators
+      >| 수업주제 | 내용 | 링크 |
+      >|:---:|:---:| :---:|
+      >| ignoreElements Operator | next 이벤트를 필터링 | [클릭]() |
+      >| elementAt Operator | 특정 인덱스에 위치한 요소를 제한적으로 방출 | [클릭]()  |
+      >| filter Operator | 특정 조건에 맞는 항목을 필터링 | [클릭]() |
+      >| skip, skipWhile, skipUntil Operator | 특정 요소를 무시 | [클릭]() |
+      >| take, takeWhile, takeUntil, takeLast Operator | 처음 n개의 요소 또는 마지막 n개의 요소를 방출하는 방법과 요소의 방출 조건을 지정 | [클릭]() |
+      >| single Operator | 하나의 요소가 방출되는 것을 보장 | [클릭]() |
+      >| distinctUntilChanged Operator | 동일한 요소가 연속적으로 방출되는 것을 방지 | [클릭]() |
+      >| debounce, throttle Operator | 짧은 시간 반복적으로 전달되는 이벤트를 효율적으로 처리하는 debounce, throttle 연산자에 대해 공부합니다. | [클릭]() |
+   
+      Transforming Operators
+      >| 수업주제 | 내용 | 링크 |
+      >|:---:|:---:| :---:|
+      >|  toArray Operator | 원본 옵저버블이 방출하는 모든 요소를 하나의 배열로 방출 | [클릭]() |
+      >| map Operator | 원본 옵저버블이 방출하는 요소를 대상으로 함수를 실행하고 결과를 새로운 옵저버블로 리턴 | [클릭]()  |
+      >| flatMap Operator | 기존 obsevable을 가공해서 새로운 obsevable을 생성 | [클릭]() |
+      >| flatMapFirst, flatMapLatest Operator | flatMap 연산자에서 파생된 두 개의 연산자 | [클릭]() |
+      >| scan Operator | accumulator function을 활용 | [클릭]() |
+      >| buffer Operator | Controlled Buffering 구현에 사용 | [클릭]() |
+      >| groupBy Operator | 방출되는 요소를 조건에 따라 그룹핑 | [클릭]() |
+
+      Combining Operators
+      >| 수업주제 | 내용 | 링크 |
+      >|:---:|:---:| :---:|
+      >|  startWith Operator | 옵저버블 시퀀스 앞에 새로운 요소를 추가 | [클릭]() |
+      >| concat Operator | 두 개의 옵저버블을 연결 | [클릭]()  |
+      >| merge Operator | 여러 옵저버블이 방출하는 이벤트를 하나의 옵저버블에서 방출하도록 병합 | [클릭]() |
+      >| combineLatest Operator | 소스 옵저버블이 방출하는 최신 요소를 병합 | [클릭]() |
+      >| zip Operator | Indexed Sequencing을 구현 | [클릭]() |
+      >| withLatestFrom Operator | 트리거 옵저버블이 Next 이벤트를 방출하면 데이터 옵저버블이 가장 최근에 방출한 Next 이벤트를 구독자에게 전달 | [클릭]() |
+      >| sample Operator | 트리거 옵저버블이 Next 이벤트를 전달할 때마다 데이터 옵저버블이 Next 이벤트를 방출하지만, 동일한 Next 이벤트를 반복해서 방출하지 않음 | [클릭]() |
+      >| switchLatest Operator | 가장 최근에 방출된 옵저버블을 구독하고, 이 옵저버블이 전달하는 이벤트를 구독자에게 전달 | [클릭]() |
+      >| reduce Operator | 시드 값과 옵저버블이 방출하는 요소를 대상으로 클로저를 실행하고 최종 결과를 옵저버블로 방출 | [클릭]() |
+      >| amb Operator | ㅇ | [클릭]() |
+
+
+      Transforming Operators
+      >| 수업주제 | 내용 | 링크 |
+      >|:---:|:---:| :---:|
+      >|  toArray Operator | 원본 옵저버블이 방출하는 모든 요소를 하나의 배열로 방출 | [클릭]() |
+      >| map Operator | 원본 옵저버블이 방출하는 요소를 대상으로 함수를 실행하고 결과를 새로운 옵저버블로 리턴 | [클릭]()  |
+      >| flatMap Operator | 기존 obsevable을 가공해서 새로운 obsevable을 생성 | [클릭]() |
+      >| flatMapFirst, flatMapLatest Operator | flatMap 연산자에서 파생된 두 개의 연산자 | [클릭]() |
+      >| scan Operator | accumulator function을 활용 | [클릭]() |
+      >| buffer Operator | Controlled Buffering 구현에 사용 | [클릭]() |
+      >| groupBy Operator | 방출되는 요소를 조건에 따라 그룹핑 | [클릭]() |
+
+      Transforming Operators
+      >| 수업주제 | 내용 | 링크 |
+      >|:---:|:---:| :---:|
+      >|  toArray Operator | 원본 옵저버블이 방출하는 모든 요소를 하나의 배열로 방출 | [클릭]() |
+      >| map Operator | 원본 옵저버블이 방출하는 요소를 대상으로 함수를 실행하고 결과를 새로운 옵저버블로 리턴 | [클릭]()  |
+      >| flatMap Operator | 기존 obsevable을 가공해서 새로운 obsevable을 생성 | [클릭]() |
+      >| flatMapFirst, flatMapLatest Operator | flatMap 연산자에서 파생된 두 개의 연산자 | [클릭]() |
+      >| scan Operator | accumulator function을 활용 | [클릭]() |
+      >| buffer Operator | Controlled Buffering 구현에 사용 | [클릭]() |
+      >| groupBy Operator | 방출되는 요소를 조건에 따라 그룹핑 | [클릭]() |
+
+      Transforming Operators
+      >| 수업주제 | 내용 | 링크 |
+      >|:---:|:---:| :---:|
+      >|  toArray Operator | 원본 옵저버블이 방출하는 모든 요소를 하나의 배열로 방출 | [클릭]() |
+      >| map Operator | 원본 옵저버블이 방출하는 요소를 대상으로 함수를 실행하고 결과를 새로운 옵저버블로 리턴 | [클릭]()  |
+      >| flatMap Operator | 기존 obsevable을 가공해서 새로운 obsevable을 생성 | [클릭]() |
+      >| flatMapFirst, flatMapLatest Operator | flatMap 연산자에서 파생된 두 개의 연산자 | [클릭]() |
+      >| scan Operator | accumulator function을 활용 | [클릭]() |
+      >| buffer Operator | Controlled Buffering 구현에 사용 | [클릭]() |
+      >| groupBy Operator | 방출되는 요소를 조건에 따라 그룹핑 | [클릭]() |
+
+      Transforming Operators
+      >| 수업주제 | 내용 | 링크 |
+      >|:---:|:---:| :---:|
+      >|  toArray Operator | 원본 옵저버블이 방출하는 모든 요소를 하나의 배열로 방출 | [클릭]() |
+      >| map Operator | 원본 옵저버블이 방출하는 요소를 대상으로 함수를 실행하고 결과를 새로운 옵저버블로 리턴 | [클릭]()  |
+      >| flatMap Operator | 기존 obsevable을 가공해서 새로운 obsevable을 생성 | [클릭]() |
+      >| flatMapFirst, flatMapLatest Operator | flatMap 연산자에서 파생된 두 개의 연산자 | [클릭]() |
+      >| scan Operator | accumulator function을 활용 | [클릭]() |
+      >| buffer Operator | Controlled Buffering 구현에 사용 | [클릭]() |
+      >| groupBy Operator | 방출되는 요소를 조건에 따라 그룹핑 | [클릭]() |
+
+
+
+      
