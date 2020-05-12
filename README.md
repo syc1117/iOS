@@ -178,53 +178,61 @@
       >| sample Operator | 트리거 옵저버블이 Next 이벤트를 전달할 때마다 데이터 옵저버블이 Next 이벤트를 방출하지만, 동일한 Next 이벤트를 반복해서 방출하지 않음 | [클릭]() |
       >| switchLatest Operator | 가장 최근에 방출된 옵저버블을 구독하고, 이 옵저버블이 전달하는 이벤트를 구독자에게 전달 | [클릭]() |
       >| reduce Operator | 시드 값과 옵저버블이 방출하는 요소를 대상으로 클로저를 실행하고 최종 결과를 옵저버블로 방출 | [클릭]() |
-      >| amb Operator | ㅇ | [클릭]() |
+      >| amb Operator | 여러 obsevable 중에서 가장 먼저 이벤트를 방출하는 observable을 선택 | [클릭]() |
 
 
-      Transforming Operators
+      Time-based Operators
       >| 수업주제 | 내용 | 링크 |
       >|:---:|:---:| :---:|
-      >|  toArray Operator | 원본 옵저버블이 방출하는 모든 요소를 하나의 배열로 방출 | [클릭]() |
-      >| map Operator | 원본 옵저버블이 방출하는 요소를 대상으로 함수를 실행하고 결과를 새로운 옵저버블로 리턴 | [클릭]()  |
-      >| flatMap Operator | 기존 obsevable을 가공해서 새로운 obsevable을 생성 | [클릭]() |
-      >| flatMapFirst, flatMapLatest Operator | flatMap 연산자에서 파생된 두 개의 연산자 | [클릭]() |
-      >| scan Operator | accumulator function을 활용 | [클릭]() |
-      >| buffer Operator | Controlled Buffering 구현에 사용 | [클릭]() |
-      >| groupBy Operator | 방출되는 요소를 조건에 따라 그룹핑 | [클릭]() |
+      >|  interval Operator | 지정된 주기마다 정수를 방출 | [클릭]() |
+      >| timer Operator | 지연 시간과 반복 주기를 지정해서 정수를 방출 | [클릭]()  |
+      >| timeout Operator | 지정된 시간 이내에 요소를 방출하지 않으면 에러 이벤트를 전달 | [클릭]() |
+      >| delay Operator | Next 이벤트가 전달되는 시점과 구독이 시작되는 시점을 지연 | [클릭]() |
 
-      Transforming Operators
+
+      Sharing Subscription
       >| 수업주제 | 내용 | 링크 |
       >|:---:|:---:| :---:|
-      >|  toArray Operator | 원본 옵저버블이 방출하는 모든 요소를 하나의 배열로 방출 | [클릭]() |
-      >| map Operator | 원본 옵저버블이 방출하는 요소를 대상으로 함수를 실행하고 결과를 새로운 옵저버블로 리턴 | [클릭]()  |
-      >| flatMap Operator | 기존 obsevable을 가공해서 새로운 obsevable을 생성 | [클릭]() |
-      >| flatMapFirst, flatMapLatest Operator | flatMap 연산자에서 파생된 두 개의 연산자 | [클릭]() |
-      >| scan Operator | accumulator function을 활용 | [클릭]() |
-      >| buffer Operator | Controlled Buffering 구현에 사용 | [클릭]() |
-      >| groupBy Operator | 방출되는 요소를 조건에 따라 그룹핑 | [클릭]() |
-
-      Transforming Operators
+      >|  Sharing Subscription | 구독 공유를 통해서 불필요한 중복 작업을 피하는 방법 | [클릭]() |
+      >| multicast Operator | multicast 연산자와 Connectable Observable | [클릭]()  |
+      >| publish Operator | ublishSubject를 활용해서 구독을 공유 | [클릭]() |
+      >| replay Operator | Connectable Observable에 버퍼를 추가하고 새로운 구독자에게 최근 이벤트를 전달 | [클릭]() |
+      >| refCount Operator | refCount 연산자와 RefCount 옵저버블 | [클릭]() |
+      >| share Operator | share 연산자를 활용해서 구독을 공유하는 방법 | [클릭]() |
+     
+      Scheduler
       >| 수업주제 | 내용 | 링크 |
       >|:---:|:---:| :---:|
-      >|  toArray Operator | 원본 옵저버블이 방출하는 모든 요소를 하나의 배열로 방출 | [클릭]() |
-      >| map Operator | 원본 옵저버블이 방출하는 요소를 대상으로 함수를 실행하고 결과를 새로운 옵저버블로 리턴 | [클릭]()  |
-      >| flatMap Operator | 기존 obsevable을 가공해서 새로운 obsevable을 생성 | [클릭]() |
-      >| flatMapFirst, flatMapLatest Operator | flatMap 연산자에서 파생된 두 개의 연산자 | [클릭]() |
-      >| scan Operator | accumulator function을 활용 | [클릭]() |
-      >| buffer Operator | Controlled Buffering 구현에 사용 | [클릭]() |
-      >| groupBy Operator | 방출되는 요소를 조건에 따라 그룹핑 | [클릭]() |
+      >|  Scheduler | code를 원하는 thread에서 실행하는 방법 | [클릭]() |
 
-      Transforming Operators
+      Error Handling
       >| 수업주제 | 내용 | 링크 |
       >|:---:|:---:| :---:|
-      >|  toArray Operator | 원본 옵저버블이 방출하는 모든 요소를 하나의 배열로 방출 | [클릭]() |
-      >| map Operator | 원본 옵저버블이 방출하는 요소를 대상으로 함수를 실행하고 결과를 새로운 옵저버블로 리턴 | [클릭]()  |
-      >| flatMap Operator | 기존 obsevable을 가공해서 새로운 obsevable을 생성 | [클릭]() |
-      >| flatMapFirst, flatMapLatest Operator | flatMap 연산자에서 파생된 두 개의 연산자 | [클릭]() |
-      >| scan Operator | accumulator function을 활용 | [클릭]() |
-      >| buffer Operator | Controlled Buffering 구현에 사용 | [클릭]() |
-      >| groupBy Operator | 방출되는 요소를 조건에 따라 그룹핑 | [클릭]() |
-
-
-
+      >|  Error Handling | RxSwift의 오류 처리 패턴 | [클릭]() |
+      >| catchError Operator | catchError 연산자를 활용한 오류 처리 패턴 | [클릭]()  |
+      >| retry Operator | retry 연산자를 활용한 오류 처리 패턴 | [클릭]() |
       
+      RxCocoa Basics
+      >| 수업주제 | 내용 | 링크 |
+      >|:---:|:---:| :---:|
+      >|  RxCocoa Overview | RxCocoa에 대해 간략히 소개 | [클릭]() |
+      >| Binding | Binding의 사용 방법 | [클릭]()  |
+      >| RxCocoa Traits | RxCocoa가 제공하는 Traits 종류와 공통적인 특징 | [클릭]() |
+      >| Control Event, Control Property | 개념과 사용방법 | [클릭]() |
+      >| Driver | RxCocoa가 제공하는 가장 핵심적인 Trait | [클릭]() |
+    
+      RxCocoa Common Patterns
+      >| 수업주제 | 내용 | 링크 |
+      >|:---:|:---:| :---:|
+      >|  Table View in RxCocoa | RxCocoa를 활용해서 테이블 뷰에 데이터를 표시하는 방법 | [클릭]() |
+      >| Collection View in RxCocoa | RxCocoa를 활용해서 컬렉션 뷰에 데이터를 표시하는 방법 | [클릭]()  |
+      >| Gesture Recognizer in RxCocoa | RxCocoa를 활용해서 제스처를 처리하는 방법을 공부합니다. | [클릭]() |
+
+      Custom Extension
+      >| 수업주제 | 내용 | 링크 |
+      >|:---:|:---:| :---:|
+      >|  Custom Binder | Binder 구현을 분석하고 Custom Binder를 직접 구현 | [클릭]() |
+      >| Custom ControlProperty | ControlProperty 구현을 분석하고 Custom ControlProperty를 구현 | [클릭]()  |
+      >| Custom ControlEvent | ControlEvent 구현을 분석하고 Custom ControlEvent를 구현 | [클릭]() |
+      >| DelegateProxy | 델리게이트 패턴으로 구현하는 객체를 RxSwift 방식으로 확장하는 방법 | [클릭]() |
+     
