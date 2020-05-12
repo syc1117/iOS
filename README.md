@@ -236,6 +236,19 @@
       >| DelegateProxy | 델리게이트 패턴으로 구현하는 객체를 RxSwift 방식으로 확장하는 방법(보완필요) | [클릭](https://github.com/syc1117/iOS/blob/master/Study_RxSwift/CustomExtension/DelegateProxyViewController.swift) |
      
 ### 3.  구현 실습 App
-
+- 구현기능, 시연영상
 1. 메모앱
-2. 
+2. 날씨앱
+3. 음악앱 - 해커톤
+4. 도미노피자 앱 - clone
+
+### 4.  배포한 App : 여행경로를 쉽게!
+- appstore 캡쳐
+- 구현 기능, 시연 영상
+- 버전 업데이트 계획
+
+### 5.  협업 프로젝트: Amanda clone
+- 기간, 인원구성, 내 역할
+- 시연영상
+- 협업의 주요 내용: Back-end와 협업한 story
+- Notion활용한 것 스크린 
