@@ -117,4 +117,9 @@
  * 학습 기관: KxCoding
  * 학습 기간: 2020년 3월 1일 ~ 2020년 5월 10일
  * 커리큘럼
- 
+      >| 수업주제 | 내용 | 링크 |
+      >|:---:|:---:| :---:|
+      >| 컴퓨터 개론 | 컴퓨터 발전의 역사, coding이란, program이란 | [클릭](https://github.com/syc1117/iOS/tree/master/Lecture_Swift/2019.11.04_ComputerBasic) |
+      >| 기본 setting | xcode설치, github & terminal 기본개념 | [클릭](https://github.com/syc1117/iOS/tree/master/Lecture_Swift/2019.11.05_GITHUB%20기초)  |
+      >| Swift 기본 문법(1) | 상수와 변수, Type, Function | [클릭](https://github.com/syc1117/iOS/tree/master/Lecture_Swift/2019.11.06%20%7E%2011.15_Swift기초문법) |
+      >| Swift 기본 문법(2) | 조건문, 반복문, Tuples, Control Transfer | [클릭](https://github.com/syc1117/iOS/tree/master/Lecture_Swift/2019.11.06%20%7E%2011.15_Swift기초문법)  |
