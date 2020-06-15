@@ -1,7 +1,7 @@
 # Content
 1. iOS Study자료
 2. RxSwift Study자료
-3. App 구현 실습
+3. 구현한 App
 4. 배포 한 App
 5. 협업 Project(with Back-end) - Amanda App Clone
 
@@ -235,9 +235,10 @@
       >| Custom ControlEvent | ControlEvent 구현을 분석하고 Custom ControlEvent를 구현 | [클릭](https://github.com/syc1117/iOS/blob/master/Study_RxSwift/CustomExtension/CustomControlEventViewController.swift) |
       >| DelegateProxy | 델리게이트 패턴으로 구현하는 객체를 RxSwift 방식으로 확장하는 방법(보완필요) | [클릭](https://github.com/syc1117/iOS/blob/master/Study_RxSwift/CustomExtension/DelegateProxyViewController.swift) |
      
-### 3.  구현 실습 App
+### 3.  구현 App
 1. 메모앱 <br/>
 <img src="https://github.com/syc1117/iOS/blob/master/메모장App/스크린샷/메모목록.png" width="200px" height="400px" title="메모목록화면" alt="MemoList"></img> <img src="https://github.com/syc1117/iOS/blob/master/메모장App/스크린샷/새메모작성.png" width="200px" height="400px" title="새메모작서ㅇ" alt="NewMemo"></img> <img src="https://github.com/syc1117/iOS/blob/master/메모장App/스크린샷/메모공유.png" width="200px" height="400px" title="메모공유" alt="SharingMemo"></img>
+  * 기능: core-data활용하여 메모 작성, 삭제, 편집, 공유기능 구현
 2. 날씨앱
 3. 곡 검색 및 스트리밍 재생 앱
 3. 음악앱 - 해커톤
