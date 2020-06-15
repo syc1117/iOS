@@ -236,10 +236,11 @@
       >| DelegateProxy | 델리게이트 패턴으로 구현하는 객체를 RxSwift 방식으로 확장하는 방법(보완필요) | [클릭](https://github.com/syc1117/iOS/blob/master/Study_RxSwift/CustomExtension/DelegateProxyViewController.swift) |
      
 ### 3.  구현 App
-1. 메모앱: core-data사용하여 메모 작성, 삭제, 편집, 공유기능 구현 <br/><br/>
-<img src="https://github.com/syc1117/iOS/blob/master/메모장App/스크린샷/메모목록.png" width="200px" height="400px" title="메모목록화면" alt="MemoList"></img> <img src="https://github.com/syc1117/iOS/blob/master/메모장App/스크린샷/새메모작성.png" width="200px" height="400px" title="새메모작서ㅇ" alt="NewMemo"></img> <img src="https://github.com/syc1117/iOS/blob/master/메모장App/스크린샷/메모공유.png" width="200px" height="400px" title="메모공유" alt="SharingMemo"></img>
+1. 메모앱(core-data사용): 메모 작성, 삭제, 편집, 공유기능 <br/><br/>
+<img src="https://github.com/syc1117/iOS/blob/master/메모장App/스크린샷/메모목록.png" width="200px" height="400px" title="메모목록화면" alt="MemoList"></img> <img src="https://github.com/syc1117/iOS/blob/master/메모장App/스크린샷/새메모작성.png" width="200px" height="400px" title="새메모작성" alt="NewMemo"></img> <img src="https://github.com/syc1117/iOS/blob/master/메모장App/스크린샷/메모공유.png" width="200px" height="400px" title="메모공유" alt="SharingMemo"></img>
 
-2. 날씨앱
+2. 날씨앱: Codable, T-developer Open API<br/><br/>
+<img src="https://github.com/syc1117/iOS/blob/master/메모장App/스크린샷/메모목록.png" width="200px" height="400px" title="메모목록화면" alt="MemoList"></img> <img src="https://github.com/syc1117/iOS/blob/master/메모장App/스크린샷/새메모작성.png" width="200px" height="400px" title="새메모작성" alt="NewMemo"></img>
 3. 곡 검색 및 스트리밍 재생 앱
 3. 음악앱 - 해커톤
 4. 도미노피자 앱 - clone
