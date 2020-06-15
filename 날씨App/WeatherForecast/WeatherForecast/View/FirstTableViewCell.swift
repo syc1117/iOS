@@ -48,7 +48,7 @@ class FirstTableViewCell: UITableViewCell {
         status.font = UIFont.systemFont(ofSize: 30, weight: .bold)
         status.textColor = .white
         
-        subStatus.text = "구름없음"
+        subStatus.text = "최대 27℃/ 최소 14℃"
         subStatus.font = UIFont.systemFont(ofSize: 20, weight: .light)
         subStatus.textColor = .white
         
