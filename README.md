@@ -237,7 +237,7 @@
      
 ### 3.  구현 실습 App
 1. 메모앱 <br/>
-<img src="https://github.com/syc1117/iOS/blob/master/메모장App/스크린샷/메모목록%20화면.png" width="200px" height="400px" title="메모목록화면" alt="MemoList"></img> 
+<img src="https://github.com/syc1117/iOS/blob/master/메모장App/스크린샷/메모목록%20화면.png" width="200px" height="400px" title="메모목록화면" alt="MemoList"></img> <img src="https://github.com/syc1117/iOS/blob/master/메모장App/스크린샷/새메모작성화면.png" width="200px" height="400px" title="메모목록화면" alt="MemoList"></img>
 2. 날씨앱
 3. 곡 검색 및 스트리밍 재생 앱
 3. 음악앱 - 해커톤
