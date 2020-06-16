@@ -243,19 +243,18 @@
 <img src="https://github.com/syc1117/iOS/blob/master/날씨App/스크린샷/메인화면.png" width="200px" height="400px" title="메인" alt="forecast"></img> <img src="https://github.com/syc1117/iOS/blob/master/날씨App/스크린샷/스크롤링화면.png" width="200px" height="400px" title="스크롤시화면" alt="scroll"></img>
 3. 곡 검색 및 스트리밍 재생 앱: i-Tunes Api, codable, parsing, Firebase라이브러리 사용<br/><br/>
 <img src="https://github.com/syc1117/iOS/blob/master/%EA%B3%A1%EA%B2%80%EC%83%89%20%EB%B0%8F%20%EC%8A%A4%ED%8A%B8%EB%A6%AC%EB%B0%8D%20App/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7/%EA%B3%A1%EA%B2%80%EC%83%89.png" width="200px" height="400px" title="곡검색화면" alt="searching"></img> <img src="https://github.com/syc1117/iOS/blob/master/%EA%B3%A1%EA%B2%80%EC%83%89%20%EB%B0%8F%20%EC%8A%A4%ED%8A%B8%EB%A6%AC%EB%B0%8D%20App/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7/%EC%9E%AC%EC%83%9D%ED%99%94%EB%A9%B4.png" width="200px" height="400px" title="곡재생화면" alt="Playing"></img> <img src="https://github.com/syc1117/iOS/blob/master/%EA%B3%A1%EA%B2%80%EC%83%89%20%EB%B0%8F%20%EC%8A%A4%ED%8A%B8%EB%A6%AC%EB%B0%8D%20App/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7/%EA%B2%80%EC%83%89%EC%9D%B4%EB%A0%A5.png" width="200px" height="400px" title="검색이력" alt="History"></img>
-3. 음악플레이어 기능구현: AVFoundation 사용<br/><br/>
+4. 음악플레이어 기능구현: AVFoundation 사용<br/><br/>
 <img src="https://github.com/syc1117/iOS/blob/master/%EC%9D%8C%EC%95%85%ED%94%8C%EB%A0%88%EC%9D%B4%EC%96%B4App/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7/%EA%B3%A1%EB%AA%A9%EB%A1%9D%ED%99%94%EB%A9%B4.png" width="200px" height="400px" title="곡목록" alt="list"></img> <img src="https://github.com/syc1117/iOS/blob/master/%EC%9D%8C%EC%95%85%ED%94%8C%EB%A0%88%EC%9D%B4%EC%96%B4App/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7/%EC%9E%AC%EC%83%9D%ED%99%94%EB%A9%B4.png" width="200px" height="400px" title="플레이어화면" alt="avplayer"></img>
 
-4. 음악 서비스 앱(해커톤)
+5. 음악 서비스 앱(해커톤)
   * 곡 검색: i-Tunes API
   * PlayList 생성: coreData
   * PlayList 생성 알림: UserNotification
   * 곡 재생시 화면 하단에 Player bar 생성, 클릭 시 avPlayer창 생성<br/><br/>
   <img src="https://github.com/syc1117/iOS/blob/master/%EC%9D%8C%EC%95%85%EC%84%9C%EB%B9%84%EC%8A%A4App(%ED%95%B4%EC%BB%A4%ED%86%A4)/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7/%EB%A9%94%EC%9D%B8%ED%99%94%EB%A9%B4.png" width="200px" height="400px" title="메인화면" alt="list"></img> <img src="https://github.com/syc1117/iOS/blob/master/%EC%9D%8C%EC%95%85%EC%84%9C%EB%B9%84%EC%8A%A4App(%ED%95%B4%EC%BB%A4%ED%86%A4)/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7/%EA%B3%A1%EA%B2%80%EC%83%89%EB%B0%8F%EC%95%8C%EB%A6%BC.png" width="200px" height="400px" title="곡검색및noti" alt="searching"></img>  <img src="https://github.com/syc1117/iOS/blob/master/%EC%9D%8C%EC%95%85%EC%84%9C%EB%B9%84%EC%8A%A4App(%ED%95%B4%EC%BB%A4%ED%86%A4)/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7/%ED%94%8C%EB%A0%88%EC%9D%B4%EC%96%B4.png" width="200px" height="400px" title="플레이어" alt="player"></img> <img src="https://github.com/syc1117/iOS/blob/master/%EC%9D%8C%EC%95%85%EC%84%9C%EB%B9%84%EC%8A%A4App(%ED%95%B4%EC%BB%A4%ED%86%A4)/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7/%ED%94%8C%EB%A0%88%EC%9D%B4%EB%A6%AC%EC%8A%A4%ED%8A%B8.png" width="200px" height="400px" title="list" alt="list"></img>
 
-
-
-5. 도미노피자 앱 - clone
+6. 도미노피자 앱 - clone: 제품 목록, 상세페이지, 주문, 결제에 관한 UI 구현<br/><br/>
+  <img src="https://github.com/syc1117/iOS/blob/master/DominoApp(%ED%81%B4%EB%A1%A0)/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7/%EB%A9%94%EC%9D%B8%EB%AA%A9%EB%A1%9D.png" width="200px" height="400px" title="메인화면" alt="list"></img> <img src="https://github.com/syc1117/iOS/blob/master/DominoApp(%ED%81%B4%EB%A1%A0)/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7/%EC%A0%9C%ED%92%88%EC%83%81%EC%84%B8.png" width="200px" height="400px" title="제품상세" alt="detail"></img>  <img src="https://github.com/syc1117/iOS/blob/master/DominoApp(%ED%81%B4%EB%A1%A0)/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7/%EC%9E%A5%EB%B0%94%EA%B5%AC%EB%8B%88.png" width="200px" height="400px" title="장바구니" alt="wishList"></img> <img src="https://github.com/syc1117/iOS/blob/master/%EC%9D%8C%EC%95%85%EC%84%9C%EB%B9%84%EC%8A%A4App(%ED%95%B4%EC%BB%A4%ED%86%A4)/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7/%ED%94%8C%EB%A0%88%EC%9D%B4%EB%A6%AC%EC%8A%A4%ED%8A%B8.png" width="200px" height="400px" title="list" alt="list"></img>
 
 ### 4.  배포한 App : 여행경로를 쉽게!
 - appstore 캡쳐
