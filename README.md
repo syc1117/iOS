@@ -274,8 +274,7 @@
 
 5. 내가 작업한 화면 및 기능<br/><br/>
 <img src="https://github.com/syc1117/iOS/blob/master/아만다App/스크린샷/로그인화면/로그인화면1.png" width="200px" height="400px" title="앱스토어등재화면" alt="appStore"></img>
-<img src="https://github.com/syc1117/iOS/blob/master/아만다App/스크린샷/메인화면/메인화면.png" alt="appStore"></img>
-
+<img src="https://github.com/syc1117/iOS/blob/master/아만다App/스크린샷/메인화면/메인화면.png" width="200px" height="400px" title="앱스토어등재화면" alt="appStore"></img>
   
   
   
