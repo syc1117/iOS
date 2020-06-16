@@ -245,7 +245,15 @@
 <img src="https://github.com/syc1117/iOS/blob/master/%EA%B3%A1%EA%B2%80%EC%83%89%20%EB%B0%8F%20%EC%8A%A4%ED%8A%B8%EB%A6%AC%EB%B0%8D%20App/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7/%EA%B3%A1%EA%B2%80%EC%83%89.png" width="200px" height="400px" title="곡검색화면" alt="searching"></img> <img src="https://github.com/syc1117/iOS/blob/master/%EA%B3%A1%EA%B2%80%EC%83%89%20%EB%B0%8F%20%EC%8A%A4%ED%8A%B8%EB%A6%AC%EB%B0%8D%20App/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7/%EC%9E%AC%EC%83%9D%ED%99%94%EB%A9%B4.png" width="200px" height="400px" title="곡재생화면" alt="Playing"></img> <img src="https://github.com/syc1117/iOS/blob/master/%EA%B3%A1%EA%B2%80%EC%83%89%20%EB%B0%8F%20%EC%8A%A4%ED%8A%B8%EB%A6%AC%EB%B0%8D%20App/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7/%EA%B2%80%EC%83%89%EC%9D%B4%EB%A0%A5.png" width="200px" height="400px" title="검색이력" alt="History"></img>
 3. 음악플레이어 기능구현: AVFoundation 사용<br/><br/>
 <img src="https://github.com/syc1117/iOS/blob/master/%EC%9D%8C%EC%95%85%ED%94%8C%EB%A0%88%EC%9D%B4%EC%96%B4App/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7/%EA%B3%A1%EB%AA%A9%EB%A1%9D%ED%99%94%EB%A9%B4.png" width="200px" height="400px" title="곡목록" alt="list"></img> <img src="https://github.com/syc1117/iOS/blob/master/%EC%9D%8C%EC%95%85%ED%94%8C%EB%A0%88%EC%9D%B4%EC%96%B4App/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7/%EC%9E%AC%EC%83%9D%ED%99%94%EB%A9%B4.png" width="200px" height="400px" title="플레이어화면" alt="avplayer"></img>
-4. 도미노피자 앱 - clone
+
+4. 음악 서비스 앱(해커톤)
+  * 곡 검색: i-Tunes API
+  * PlayList 생성: coreData
+  * PlayList 생성 알림: UserNotification
+  * 곡 재생시 화면 하단에 Player bar 생성, 클릭 시 avPlayer창 생성
+
+
+5. 도미노피자 앱 - clone
 
 ### 4.  배포한 App : 여행경로를 쉽게!
 - appstore 캡쳐
