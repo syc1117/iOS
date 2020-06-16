@@ -273,8 +273,17 @@
   * Back-end협업 부분: 로그인 기능 구현(생성된 Token을 서버로 보내고 인증 받는 process)
 
 5. 내가 작업한 화면 및 기능<br/><br/>
-<img src="https://github.com/syc1117/iOS/blob/master/아만다App/스크린샷/로그인화면/로그인화면1.png" width="200px" height="400px" title="앱스토어등재화면" alt="appStore"></img>
-<img src="https://github.com/syc1117/iOS/blob/master/아만다App/스크린샷/메인화면/메인화면.png" width="200px" height="400px" title="앱스토어등재화면" alt="appStore"></img>
-  
-  
+<img src="https://github.com/syc1117/iOS/blob/master/아만다App/스크린샷/로그인화면/로그인화면1.png" width="200px" height="400px" title="로그인화면" alt="login"></img>
+<img src="https://github.com/syc1117/iOS/blob/master/아만다App/스크린샷/메인화면/나의프로필.png" width="200px" height="400px" title="나의프로필" alt="profile"></img>
+<img src="https://github.com/syc1117/iOS/blob/master/아만다App/스크린샷/메인화면/메인화면.png" width="200px" height="400px" title="메인화면" alt="main"></img>
+<img src="https://github.com/syc1117/iOS/blob/master/아만다App/스크린샷/메인화면/메인화면중팝업1.png" width="200px" height="400px" title="팝업1" alt="popup"></img> 
+<img src="https://github.com/syc1117/iOS/blob/master/아만다App/스크린샷/메인화면/팝업2.png" width="200px" height="400px" title="팝업2" alt="popup"></img> 
+<img src="https://github.com/syc1117/iOS/blob/master/아만다App/스크린샷/상대프로필열람/프로필1.png" width="200px" height="400px" title="상대프로필" alt="profile"></img> 
+<img src="https://github.com/syc1117/iOS/blob/master/아만다App/스크린샷/상대프로필열람/프로필2.png" width="200px" height="400px" title="상대프로필" alt="profile"></img> 
+<img src="https://github.com/syc1117/iOS/blob/master/아만다App/스크린샷/상대프로필열람/프로필3.png" width="200px" height="400px" title="상대프로필" alt="profile"></img>
+<img src="https://github.com/syc1117/iOS/blob/master/아만다App/스크린샷/기타기능/이상형설정.png" width="200px" height="400px" title="이상형설정" alt="profile"></img>
+<img src="https://github.com/syc1117/iOS/blob/master/아만다App/스크린샷/기타기능/주변이성찾기.png" width="200px" height="400px" title="주변이성찾기" alt="profile"></img>
+<img src="https://github.com/syc1117/iOS/blob/master/아만다App/스크린샷/기타기능/호감있는이성관리.png" width="200px" height="400px" title="호감있는이성관리" alt="profile"></img>
+<img src="https://github.com/syc1117/iOS/blob/master/아만다App/스크린샷/이성별점평가/별점평가1.png" width="200px" height="400px" title="별점평가1" alt="profile"></img>
+<img src="https://github.com/syc1117/iOS/blob/master/아만다App/스크린샷/이성별점평가/별점평가2.png" width="200px" height="400px" title="별점평가2" alt="profile"></img>
   
