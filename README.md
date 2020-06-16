@@ -262,7 +262,10 @@
   <img src="https://github.com/syc1117/iOS/blob/master/%EC%97%AC%ED%96%89%EA%B2%BD%EB%A1%9CApp(%EB%B0%B0%ED%8F%AC)/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7/%EC%95%B1%EC%8A%A4%ED%86%A0%EC%96%B4.jpeg" width="200px" height="400px" title="앱스토어등재화면" alt="appStore"></img> <img src="https://github.com/syc1117/iOS/blob/master/%EC%97%AC%ED%96%89%EA%B2%BD%EB%A1%9CApp(%EB%B0%B0%ED%8F%AC)/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7/%EB%A9%94%EC%9D%B8%ED%99%94%EB%A9%B4.png" width="200px" height="400px" title="메인화면" alt="main"></img>  <img src="https://github.com/syc1117/iOS/blob/master/%EC%97%AC%ED%96%89%EA%B2%BD%EB%A1%9CApp(%EB%B0%B0%ED%8F%AC)/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7/%EC%9E%91%EC%84%B1%ED%99%94%EB%A9%B4.png" width="200px" height="400px" title="작성화면" alt="Write"></img> <img src="https://github.com/syc1117/iOS/blob/master/%EC%97%AC%ED%96%89%EA%B2%BD%EB%A1%9CApp(%EB%B0%B0%ED%8F%AC)/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7/%EC%83%81%EC%84%B8%EB%B3%B4%EA%B8%B0.png" width="200px" height="400px" title="상세화면" alt="Detail"></img>
 
 ### 5.  협업 프로젝트: Amanda clone
-- 기간, 인원구성, 내 역할
-- 시연영상
-- 협업의 주요 내용: Back-end와 협업한 story
-- Notion활용한 것 스크린 
+1. 기간: 2020년 3월 15일 ~ 4월 15일
+2. 인원구성: iOS 개발 2명, Back-end 2명
+3. 프로젝트 목표
+  * Back-end와 협업: 로그인 기능(email, apple Login, kakao Login), Restful 기반 서버 통신 실습
+  * iOS 실습: 아만다 app의 주요 UI 구현
+  * 협업 Tool 사용: Notion활용
+4. 
