@@ -250,7 +250,9 @@
   * 곡 검색: i-Tunes API
   * PlayList 생성: coreData
   * PlayList 생성 알림: UserNotification
-  * 곡 재생시 화면 하단에 Player bar 생성, 클릭 시 avPlayer창 생성
+  * 곡 재생시 화면 하단에 Player bar 생성, 클릭 시 avPlayer창 생성<br/><br/>
+  <img src="https://github.com/syc1117/iOS/blob/master/%EC%9D%8C%EC%95%85%EC%84%9C%EB%B9%84%EC%8A%A4App(%ED%95%B4%EC%BB%A4%ED%86%A4)/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7/%EB%A9%94%EC%9D%B8%ED%99%94%EB%A9%B4.png" width="200px" height="400px" title="메인화면" alt="list"></img> <img src="https://github.com/syc1117/iOS/blob/master/%EC%9D%8C%EC%95%85%EC%84%9C%EB%B9%84%EC%8A%A4App(%ED%95%B4%EC%BB%A4%ED%86%A4)/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7/%EA%B3%A1%EA%B2%80%EC%83%89%EB%B0%8F%EC%95%8C%EB%A6%BC.png" width="200px" height="400px" title="곡검색및noti" alt="searching"></img>  <img src="https://github.com/syc1117/iOS/blob/master/%EC%9D%8C%EC%95%85%EC%84%9C%EB%B9%84%EC%8A%A4App(%ED%95%B4%EC%BB%A4%ED%86%A4)/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7/%ED%94%8C%EB%A0%88%EC%9D%B4%EC%96%B4.png" width="200px" height="400px" title="플레이어" alt="player"></img> <img src="https://github.com/syc1117/iOS/blob/master/%EC%9D%8C%EC%95%85%EC%84%9C%EB%B9%84%EC%8A%A4App(%ED%95%B4%EC%BB%A4%ED%86%A4)/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7/%ED%94%8C%EB%A0%88%EC%9D%B4%EB%A6%AC%EC%8A%A4%ED%8A%B8.png" width="200px" height="400px" title="list" alt="list"></img>
+
 
 
 5. 도미노피자 앱 - clone
