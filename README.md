@@ -268,10 +268,12 @@
   * Back-end와 협업사항: 로그인 기능 구현(email, apple Login, kakao Login), Restful 기반 서버 통신 실습
   * iOS 실습 : 아만다 app의 주요 UI 구현
   * 협업 Tool 사용: Slack, Notion
-4. 본인의 역할
+4. 나의 역할
   * iOS UI구성 부분: 이성 별점평가 화면, 메인화면, 프로필 화면(작성화면 제외), 메인에서 userinteraction으로 나타나는 세부 화면
   * Back-end협업 부분: 로그인 기능 구현(생성된 Token을 서버로 보내고 인증 받는 process)
-  
+
+5. 내가 작업한 화면 및 기능
+
   
   
   
