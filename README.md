@@ -258,7 +258,7 @@
 
 ### 4.  배포한 App : 여행경로를 쉽게!
   * 서비스내용: 여행 제목, 일정, 경로, 총 이동거리, 메모사항 등을 작성하여 함께 여행하는 사람과 공유
-  * 업데이트 및 버그픽스 계획: 여행 제목에 한글 입력시 글자가 깨지는 현상 수정(버그픽스), 공유시 여행메모 사항을 스크린샷을 공유(업데이트)<br/><br/>
+  * 업데이트 계획: 공유시 여행메모 사항을 스크린샷으로 공유할 수 있도로 업데이트 예정<br/><br/>
   <img src="https://github.com/syc1117/iOS/blob/master/%EC%97%AC%ED%96%89%EA%B2%BD%EB%A1%9CApp(%EB%B0%B0%ED%8F%AC)/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7/%EC%95%B1%EC%8A%A4%ED%86%A0%EC%96%B4.jpeg" width="200px" height="400px" title="앱스토어등재화면" alt="appStore"></img> <img src="https://github.com/syc1117/iOS/blob/master/%EC%97%AC%ED%96%89%EA%B2%BD%EB%A1%9CApp(%EB%B0%B0%ED%8F%AC)/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7/%EB%A9%94%EC%9D%B8%ED%99%94%EB%A9%B4.png" width="200px" height="400px" title="메인화면" alt="main"></img>  <img src="https://github.com/syc1117/iOS/blob/master/%EC%97%AC%ED%96%89%EA%B2%BD%EB%A1%9CApp(%EB%B0%B0%ED%8F%AC)/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7/%EC%9E%91%EC%84%B1%ED%99%94%EB%A9%B4.png" width="200px" height="400px" title="작성화면" alt="Write"></img> <img src="https://github.com/syc1117/iOS/blob/master/%EC%97%AC%ED%96%89%EA%B2%BD%EB%A1%9CApp(%EB%B0%B0%ED%8F%AC)/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7/%EC%83%81%EC%84%B8%EB%B3%B4%EA%B8%B0.png" width="200px" height="400px" title="상세화면" alt="Detail"></img>
 
 ### 5.  협업 프로젝트: Amanda clone
