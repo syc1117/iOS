@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="15702" systemVersion="19D76" minimumToolsVersion="Automatic" sourceLanguage="Swift" userDefinedModelVersionIdentifier="">
+    <entity name="Data" representedClassName="Data" syncable="YES">
+        <attribute name="distance" optional="YES" attributeType="Double" defaultValueString="0.0" usesScalarValueType="YES"/>
+        <attribute name="endDate" optional="YES" attributeType="String"/>
+        <attribute name="latitude" optional="YES" attributeType="Transformable"/>
+        <attribute name="longitude" optional="YES" attributeType="Transformable"/>
+        <attribute name="memo" optional="YES" attributeType="String"/>
+        <attribute name="navigationLabel" optional="YES" attributeType="String"/>
+        <attribute name="startingDate" optional="YES" attributeType="String"/>
+        <attribute name="titleArray" optional="YES" attributeType="Transformable"/>
+        <attribute name="tripTitle" optional="YES" attributeType="String"/>
+    </entity>
+    <elements>
+        <element name="Data" positionX="-63" positionY="-18" width="128" height="178"/>
+    </elements>
+</model>
