@@ -243,7 +243,8 @@
 <img src="https://github.com/syc1117/iOS/blob/master/날씨App/스크린샷/메인화면.png" width="200px" height="400px" title="메인" alt="forecast"></img> <img src="https://github.com/syc1117/iOS/blob/master/날씨App/스크린샷/스크롤링화면.png" width="200px" height="400px" title="스크롤시화면" alt="scroll"></img>
 3. 곡 검색 및 스트리밍 재생 앱: i-Tunes Api, codable, parsing, Firebase라이브러리 사용<br/><br/>
 <img src="https://github.com/syc1117/iOS/blob/master/%EA%B3%A1%EA%B2%80%EC%83%89%20%EB%B0%8F%20%EC%8A%A4%ED%8A%B8%EB%A6%AC%EB%B0%8D%20App/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7/%EA%B3%A1%EA%B2%80%EC%83%89.png" width="200px" height="400px" title="곡검색화면" alt="searching"></img> <img src="https://github.com/syc1117/iOS/blob/master/%EA%B3%A1%EA%B2%80%EC%83%89%20%EB%B0%8F%20%EC%8A%A4%ED%8A%B8%EB%A6%AC%EB%B0%8D%20App/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7/%EC%9E%AC%EC%83%9D%ED%99%94%EB%A9%B4.png" width="200px" height="400px" title="곡재생화면" alt="Playing"></img> <img src="https://github.com/syc1117/iOS/blob/master/%EA%B3%A1%EA%B2%80%EC%83%89%20%EB%B0%8F%20%EC%8A%A4%ED%8A%B8%EB%A6%AC%EB%B0%8D%20App/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7/%EA%B2%80%EC%83%89%EC%9D%B4%EB%A0%A5.png" width="200px" height="400px" title="검색이력" alt="History"></img>
-3. 음악앱 - 해커톤
+3. 음악플레이어 기능구현: AVFoundation 사용<br/><br/>
+<img src="https://github.com/syc1117/iOS/blob/master/날씨App/스크린샷/메인화면.png" width="200px" height="400px" title="메인" alt="forecast"></img> <img src="https://github.com/syc1117/iOS/blob/master/날씨App/스크린샷/스크롤링화면.png" width="200px" height="400px" title="스크롤시화면" alt="scroll"></img>
 4. 도미노피자 앱 - clone
 
 ### 4.  배포한 App : 여행경로를 쉽게!
