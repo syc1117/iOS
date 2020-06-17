@@ -86,7 +86,7 @@
     12 주차 (2020.02.03 ~ 2020.02.07)
       >| 주제 | 내용 | 링크 |
       >|:---:|:---:| :---:|
-      >| Data Structure | Type, Complexity, Linked List, Stack, Queue, Graph, Tree  | [클릭](https://github.com/syc1117/iOS/tree/master/Lecture_Swift/2020.02.03_DataStruct)  |
+      >| Data Structure | Complexity, Linked List, Stack, Queue, Graph, Tree  | [클릭](https://github.com/syc1117/iOS/tree/master/Lecture_Swift/2020.02.03_DataStruct)  |
       >| Algorithm | Flowchart, Sorting(Bubble, Selection, Insertion, Quick, Merge, Heap)  | [클릭](https://github.com/syc1117/iOS/tree/master/Lecture_Swift/2020.02.04_Algorithm)  |
    
     13 주차 (2020.02.10 ~ 2020.02.14)
