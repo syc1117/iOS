@@ -239,11 +239,11 @@
 1. 메모앱(core-data사용): 메모 작성, 삭제, 편집, 공유기능 <br/><br/>
 <img src="https://github.com/syc1117/iOS/blob/master/메모장App/스크린샷/메모목록.png" width="200px" height="400px" title="메모목록화면" alt="MemoList"></img> <img src="https://github.com/syc1117/iOS/blob/master/메모장App/스크린샷/새메모작성.png" width="200px" height="400px" title="새메모작성" alt="NewMemo"></img> <img src="https://github.com/syc1117/iOS/blob/master/메모장App/스크린샷/메모공유.png" width="200px" height="400px" title="메모공유" alt="SharingMemo"></img>
 
-2. 날씨앱: Codable, T-developer Open API<br/><br/>
+2. 날씨앱: 현재 위치 기반으로 현재, 주간 날씨를 보여주는 기능(T-developer Open API 사용)<br/><br/>
 <img src="https://github.com/syc1117/iOS/blob/master/날씨App/스크린샷/메인화면.png" width="200px" height="400px" title="메인" alt="forecast"></img> <img src="https://github.com/syc1117/iOS/blob/master/날씨App/스크린샷/스크롤링화면.png" width="200px" height="400px" title="스크롤시화면" alt="scroll"></img>
 3. 곡 검색 및 스트리밍 재생 앱: i-Tunes Api, codable, parsing, Firebase라이브러리 사용<br/><br/>
 <img src="https://github.com/syc1117/iOS/blob/master/%EA%B3%A1%EA%B2%80%EC%83%89%20%EB%B0%8F%20%EC%8A%A4%ED%8A%B8%EB%A6%AC%EB%B0%8D%20App/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7/%EA%B3%A1%EA%B2%80%EC%83%89.png" width="200px" height="400px" title="곡검색화면" alt="searching"></img> <img src="https://github.com/syc1117/iOS/blob/master/%EA%B3%A1%EA%B2%80%EC%83%89%20%EB%B0%8F%20%EC%8A%A4%ED%8A%B8%EB%A6%AC%EB%B0%8D%20App/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7/%EC%9E%AC%EC%83%9D%ED%99%94%EB%A9%B4.png" width="200px" height="400px" title="곡재생화면" alt="Playing"></img> <img src="https://github.com/syc1117/iOS/blob/master/%EA%B3%A1%EA%B2%80%EC%83%89%20%EB%B0%8F%20%EC%8A%A4%ED%8A%B8%EB%A6%AC%EB%B0%8D%20App/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7/%EA%B2%80%EC%83%89%EC%9D%B4%EB%A0%A5.png" width="200px" height="400px" title="검색이력" alt="History"></img>
-4. 음악플레이어 기능구현: AVFoundation 사용<br/><br/>
+4. 음악플레이어 기능구현: AVFoundation의 avPlayer를 이용하여 음악을 재생하는 기능<br/><br/>
 <img src="https://github.com/syc1117/iOS/blob/master/%EC%9D%8C%EC%95%85%ED%94%8C%EB%A0%88%EC%9D%B4%EC%96%B4App/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7/%EA%B3%A1%EB%AA%A9%EB%A1%9D%ED%99%94%EB%A9%B4.png" width="200px" height="400px" title="곡목록" alt="list"></img> <img src="https://github.com/syc1117/iOS/blob/master/%EC%9D%8C%EC%95%85%ED%94%8C%EB%A0%88%EC%9D%B4%EC%96%B4App/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7/%EC%9E%AC%EC%83%9D%ED%99%94%EB%A9%B4.png" width="200px" height="400px" title="플레이어화면" alt="avplayer"></img>
 
 5. 음악 서비스 앱(해커톤)
