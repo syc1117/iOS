@@ -236,12 +236,12 @@
       >| DelegateProxy | 델리게이트 패턴으로 구현하는 객체를 RxSwift 방식으로 확장하는 방법(보완필요) | [클릭](https://github.com/syc1117/iOS/blob/master/Study_RxSwift/CustomExtension/DelegateProxyViewController.swift) |
      
 ### 3.  구현 App
-1. 메모앱(core-data사용) - (링크: [Click](https://github.com/syc1117/RxMemoApp))
+1. 메모앱(core-data사용) - (App 링크: [Click](https://github.com/syc1117/RxMemoApp))
   * 메모 작성, 삭제, 편집, 공유기능
   * RxSwift, RxCocoa, RxDataSource, RxCoreData, Action 사용 <br/><br/>
 <img src="https://github.com/syc1117/iOS/blob/master/메모장App/스크린샷/메모목록.png" width="200px" height="400px" title="메모목록화면" alt="MemoList"></img> <img src="https://github.com/syc1117/iOS/blob/master/메모장App/스크린샷/새메모작성.png" width="200px" height="400px" title="새메모작성" alt="NewMemo"></img> <img src="https://github.com/syc1117/iOS/blob/master/메모장App/스크린샷/메모공유.png" width="200px" height="400px" title="메모공유" alt="SharingMemo"></img>
 
-2. 날씨앱 - (링크: [Click](https://github.com/syc1117/RxForecastApp)
+2. 날씨앱 - (App 링크: [Click](https://github.com/syc1117/RxForecastApp))
   * 현재 위치 기반으로 현재, 주간 날씨를 보여주는 기능(T-developer Open API 사용)
   * RxSwift, RxCocoa, RxDataSource, Action <br/><br/>
 <img src="https://github.com/syc1117/iOS/blob/master/날씨App/스크린샷/메인화면.png" width="200px" height="400px" title="메인" alt="forecast"></img> <img src="https://github.com/syc1117/iOS/blob/master/날씨App/스크린샷/스크롤링화면.png" width="200px" height="400px" title="스크롤시화면" alt="scroll"></img>
